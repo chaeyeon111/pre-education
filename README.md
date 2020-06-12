@@ -26,16 +26,26 @@ https://programmers.co.kr/learn/courses/2
 5. 보충 서적 및 website
 
 
-   (1) http://pythonstudy.xyz/python/article/405-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%91%EC%85%80%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+   (1) 예제로 배우는 파이썬 프로그래밍
+   
+   http://pythonstudy.xyz/python/article/405-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%91%EC%85%80%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 
-   (2) https://docs.python.org/ko/3/tutorial/controlflow.html#the-range-function
+   (2) 파이썬 자습서(한국판)
+   
+   https://docs.python.org/ko/3/tutorial/controlflow.html#the-range-function
 
-   (3) https://wikidocs.net/43
+   (3) 왕초보를 위한 Python
+   
+   https://wikidocs.net/43
 
-   (4) https://stackoverflow.com/questions/101268/hidden-features-of-python
+   (4) Stackoverflow_ hidden-features-of python
+   
+   https://stackoverflow.com/questions/101268/hidden-features-of-python
 
-   (5) https://docs.python.org/ko/3/tutorial/controlflow.html#the-range-function
+   (5) 혼자 공부하는 Python (Youtube Playlist)
+   
+   https://www.youtube.com/playlist?list=PLBXuLgInP-5kr0PclHz1ubNZgESmliuB7
 
-   (6) https://www.youtube.com/playlist?list=PLBXuLgInP-5kr0PclHz1ubNZgESmliuB7
-
-   (7) https://programmers.co.kr/learn/courses/29
+   (7) 김왼손의 미운 코딩 새끼(Programmer's lecture)
+   
+   https://programmers.co.kr/learn/courses/29
