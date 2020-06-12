@@ -26,7 +26,7 @@ https://programmers.co.kr/learn/courses/2
 5. 보충 서적 및 website
 
 
-   (1) http://pythonstudy.xyz/python/article/405-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%91%EC%85%80 %EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+   (1) http://pythonstudy.xyz/python/article/405-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%91%EC%85%80%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 
    (2) https://docs.python.org/ko/3/tutorial/controlflow.html#the-range-function
 
