@@ -46,6 +46,6 @@ https://programmers.co.kr/learn/courses/2
    
    https://www.youtube.com/playlist?list=PLBXuLgInP-5kr0PclHz1ubNZgESmliuB7
 
-   (7) 김왼손의 미운 코딩 새끼(Programmer's lecture)
+   (7) 김왼손의 미운 코딩 새끼(Programmers lecture)
    
    https://programmers.co.kr/learn/courses/29
