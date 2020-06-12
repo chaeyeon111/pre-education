@@ -8,3 +8,13 @@ print(factorial(10))
 
 <출력>
 3628800'''
+
+def factorial_recrusive(n):
+    return n * factorial_recrusive(n - 1) if n > 1 else 1
+
+# Factorial number
+# https://www.quora.com/The-factorial-of-a-number-is-3628800-Which-is-the-number
+
+print(factorial_recrusive(10))
+
+
