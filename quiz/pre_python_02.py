@@ -11,3 +11,27 @@
 150
 """
 
+def sum(a, b):
+    return a + b
+
+def sub(a, b):
+    return a - b
+
+def mul(a, b):
+    return a * b
+
+def div(a, b):
+    return a / b
+
+while True:
+    numberA = int(input("첫 번째 숫자를 입력하세요 : "))
+    numberB = int(input("두 번째 숫자를 입력하세요 : "))
+
+    selection = int(input("어떤 연산을 하실 껀가요? \n 1. + \n "
+                          "2. - \n 3. × \n 4. ÷ \n  어떤 연산을 하실 껀가요? \n "))
+
+
+    if(selection == 1):
+        result = sum(numberA,numberB)
+        print("결과는 %d 입니다." %result)
+
