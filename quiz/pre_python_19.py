@@ -10,3 +10,10 @@ print(list)
 ['charlie', 'foxtrot']
 
  """
+
+a = ['alpha', 'bravo', 'charlie', 'delta', 'echo', 'foxtrot', 'golf', 'hotel', 'india']
+
+for w in a:
+    length = int(len(w))
+    if (length == 7):
+        print(w)
