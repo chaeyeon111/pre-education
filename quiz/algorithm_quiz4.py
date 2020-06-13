@@ -17,3 +17,27 @@ print(greedy())
 동전의 종류 :  100 50 10
 100원 동전 10개, 50원 동전 1개, 10원 동전 0개
 '''
+
+
+# Python 3 program to find minimum
+# number of denominations
+
+
+money = input("액수 입력: ")
+
+# number of elements
+# n = int(input("Enter number of elements : "))
+
+# Below line read inputs from user using map() function
+a = list(map(int, input("\n동전의 종류 : ").strip().split()))
+
+print("\nList is - ", a)
+
+n = len(a)
+
+ans = []
+
+
+
+
+
