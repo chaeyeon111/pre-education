@@ -9,3 +9,13 @@ print(Triangle(10,20))
 100
 
 """
+
+
+def Triangle(row, height):
+
+    width = row * height
+
+    return width
+
+
+print(Triangle(10,20))
