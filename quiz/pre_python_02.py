@@ -28,10 +28,29 @@ while True:
     numberB = int(input("두 번째 숫자를 입력하세요 : "))
 
     selection = int(input("어떤 연산을 하실 껀가요? \n 1. + \n "
-                          "2. - \n 3. × \n 4. ÷ \n  어떤 연산을 하실 껀가요? \n "))
+                          "2. - \n 3. × \n 4. ÷ \n 5. 종료 어떤 연산을 하실 껀가요? \n "))
 
 
     if(selection == 1):
         result = sum(numberA,numberB)
         print("결과는 %d 입니다." %result)
 
+
+    elif(selection == 2):
+        result = sub(numberA,numberB)
+        print("결과는 %d 입니다." %result)
+
+    elif(selection == 3):
+        result = mul(numberA, numberB)
+        print("결과는 %d 입니다." % result)
+
+    elif(selection== 4):
+        result = div(numberA, numberB)
+        print("결과는 %d 입니다." % result)
+
+    elif(selection == 5):
+        print("계산을 종료합니다.")
+        break
+
+    else:
+        print("1 ~ 5 사이의 값을 입력해주세요.")
