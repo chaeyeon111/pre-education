@@ -8,3 +8,17 @@
 <출력>
 남자
 """
+
+num = input("주민등록번호 : ").split("-")
+
+sex = num[1]
+
+if (sex[:1] == "1" or sex[:1] == "3"):
+    print("남자")
+
+elif(sex[:1] == "2" or sex[:1] == "4"):
+    print("여자")
+
+else:
+    print("입력 형식이 잘못되었습니다.")
+
