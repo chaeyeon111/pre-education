@@ -49,3 +49,38 @@ https://programmers.co.kr/learn/courses/2
    (7) 김왼손의 미운 코딩 새끼(Programmers lecture)
    
    https://programmers.co.kr/learn/courses/29
+   
+   
+   Book
+   
+   1)혼자서 공부하는 파이썬 --윤인성 저
+   
+  
+  
+  ##Summary
+  
+  1. 자료형과 문자열
+  
+  2. 숫자
+  
+  3. 변수와 입력
+  
+  4. 숫자와 문자열의 다양한 기능
+  
+  5. 불 자료형과 if 조건문
+  
+  6. if~else와 elif 구문
+  
+  7. 리스틍돠 반복문
+  
+  8. 딕셔너리와 반복문
+  
+  9. 반복문과 while 반복문
+  
+  10. 문자열, 리스트, 딕셔너리와 관련된 기본 함수
+  
+  11. 함수
+  
+  12. 예외 처리
+  
+  13. 모듈
