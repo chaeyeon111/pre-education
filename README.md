@@ -56,9 +56,9 @@ https://programmers.co.kr/learn/courses/2
    1)혼자서 공부하는 파이썬 --윤인성 저
    
   
-  
-  ##Summary
-  
+#### Summarize note
+
+
   1. 자료형과 문자열
   
   2. 숫자
