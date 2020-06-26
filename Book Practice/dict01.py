@@ -5,5 +5,11 @@ dictionary = {
     "origin" : "필리핀"
 }
 
-for key in dictionary:
-    print(key, ":", dictionary[key])
+print("name :", dictionary["name"])
+print("type: ", dictionary["type"])
+print("ingredient :", dictionary["ingredient"])
+print("origin : ", dictionary["origin"])
+print()
+
+dictionary["name"] = "8D 건조 망고"
+print("name : ", dictionary["name"])
